@@ -1,0 +1,41 @@
+body{
+  font-family: Aerial;
+  color: white;
+  background-color: #909497;
+  text-align: center;
+}
+
+#title{
+  font-size: 15px;
+  background-color: #d7dbdd;
+  color: black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#title p{
+  font-style: italic;
+}
+
+#img-div{
+  background-color: white;
+  color: black;
+  padding: 20px;
+}
+
+#image{
+  border-radius: 10px;
+  display: block;
+  padding-bottom: 10px;
+  max-width: 100%;
+}
+
+#tribute-info{
+  background-color: #d7dbdd;
+  color: black;
+}
+
+#tribute-info li{
+  padding-bottom: 25px;
+  text-align: justify;
+}
